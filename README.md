@@ -1,5 +1,5 @@
 ## Placeholders
---- ---
+---
 
 #### %foliatps_mspt%
 The average milliseconds per tick, rounded to one decimal place. Example: 3.5
